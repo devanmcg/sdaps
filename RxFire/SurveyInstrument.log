@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.6)  1 DEC 2021 08:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.8.6)  23 DEC 2021 16:26
 entering extended mode
 **./SurveyInstrument.tex
 (SurveyInstrument.tex
@@ -972,13 +972,13 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 ) (C:\Users\devan.mcgranahan\AppData\Roaming\MiKTeX\tex/latex/psnfss\helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 22
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 23
 .
 (C:\Users\devan.mcgranahan\AppData\Roaming\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 10.40245pt on input line 22.
+(Font)              scaled to size 10.40245pt on input line 23.
 
 (SurveyInstrument.aux
 <Reading QR code for "324989230001" at level 2-H from aux file.>
@@ -988,27 +988,28 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 <Reading QR code for "324989230005" at level 2-H from aux file.>
 <Reading QR code for "324989230006" at level 2-H from aux file.>
 <Reading QR code for "324989230007" at level 2-H from aux file.>
+<Reading QR code for "324989230008" at level 2-H from aux file.>
 )
 \openout1 = `SurveyInstrument.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
  (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count346
@@ -1030,9 +1031,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package scrbase Info: activating english \contentsname on input line 22.
-Package scrbase Info: activating english \listfigurename on input line 22.
-Package scrbase Info: activating english \listtablename on input line 22.
+Package scrbase Info: activating english \contentsname on input line 23.
+Package scrbase Info: activating english \listfigurename on input line 23.
+Package scrbase Info: activating english \listtablename on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1070,8 +1071,8 @@ Package scrbase Info: activating english \listtablename on input line 22.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 22.
-Package hyperref Info: Link coloring OFF on input line 22.
+(lastpage)             ! on input line 23.
+Package hyperref Info: Link coloring OFF on input line 23.
 (C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1081,9 +1082,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count352
 )
-LaTeX Info: Redefining \ref on input line 22.
-LaTeX Info: Redefining \pageref on input line 22.
-LaTeX Info: Redefining \nameref on input line 22.
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \nameref on input line 23.
  (SurveyInstrument.out) (SurveyInstrument.out)
 \@outlinefile=\write5
 \openout5 = `SurveyInstrument.out'.
@@ -1095,7 +1096,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 22.
+(scrartcl)           before \begin{document} on input line 23.
 
 (C:\Users\devan.mcgranahan\AppData\Roaming\MiKTeX\tex/latex/bookmark\bookmark.s
 ty
@@ -1112,32 +1113,32 @@ Dictionary: translator-sdaps-dictionary, Language: English
 )
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd)
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd)
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 2
-9.
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 3
+0.
 
 (C:\Users\devan.mcgranahan\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
-(Font)              scaled to size 10.40245pt on input line 29.
+(Font)              scaled to size 10.40245pt on input line 30.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 10.40245pt on input line 29.
+(Font)              scaled to size 10.40245pt on input line 30.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 29.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 30.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 10.40245pt on input line 29.
+(Font)              scaled to size 10.40245pt on input line 30.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 13.67995pt on input line 40.
+(Font)              scaled to size 13.67995pt on input line 41.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 13.67995pt on input line 40.
+(Font)              scaled to size 13.67995pt on input line 41.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 42.
+(hyperref)                removing `\unhcopy' on input line 43.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 42.
+(hyperref)                removing `\strutbox' on input line 43.
 
 \g__sdaps_array_info_iow=\write6
 \openout6 = `SurveyInstrument.sdapsarraytoc'.
@@ -1146,35 +1147,35 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 56.
+(hyperref)                removing `\unhcopy' on input line 57.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 56.
+(hyperref)                removing `\strutbox' on input line 57.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 59.
+(hyperref)                removing `\unhcopy' on input line 60.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 59.
+(hyperref)                removing `\strutbox' on input line 60.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 68.
+(hyperref)                removing `\unhcopy' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 68.
+(hyperref)                removing `\strutbox' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 79.
+(hyperref)                removing `\unhcopy' on input line 80.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 79.
+(hyperref)                removing `\strutbox' on input line 80.
 
 
 
@@ -1183,7 +1184,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 <Copying the QR code for "324989230001" in version 2-H as previously calculated
 .>
 LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
-(Font)              scaled to size 10.40245pt on input line 80.
+(Font)              scaled to size 10.40245pt on input line 83.
 [1{C:/Users/devan.mcgranahan/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
@@ -1198,19 +1199,31 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 100.
+(hyperref)                removing `\@ifnextchar' on input line 88.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 100.
+(hyperref)                removing `\unhcopy' on input line 101.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 110.
+(hyperref)                removing `\strutbox' on input line 101.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 110.
+(hyperref)                removing `\@ifnextchar' on input line 101.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 113.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 113.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\@ifnextchar' on input line 113.
 
 
 
@@ -1221,59 +1234,27 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 126.
+(hyperref)                removing `\unhcopy' on input line 139.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 126.
+(hyperref)                removing `\strutbox' on input line 139.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 135.
+(hyperref)                removing `\unhcopy' on input line 154.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 135.
+(hyperref)                removing `\strutbox' on input line 154.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 148.
+(hyperref)                removing `\unhcopy' on input line 173.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 148.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 153.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 153.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 157.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 157.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 162.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 162.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 171.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 171.
+(hyperref)                removing `\strutbox' on input line 173.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -1284,19 +1265,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\strutbox' on input line 179.
 
 
-
-<QR code requested for "324989230003" in version 2-H.>
-
-<Copying the QR code for "324989230003" in version 2-H as previously calculated
-.>
-[3]
-
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 189.
+(hyperref)                removing `\unhcopy' on input line 186.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 189.
+(hyperref)                removing `\strutbox' on input line 186.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
@@ -1307,70 +1281,52 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\strutbox' on input line 191.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 193.
 
+<QR code requested for "324989230003" in version 2-H.>
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 193.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 198.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 198.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 200.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 200.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 203--203
-\T1/phv/m/n/10.95 Bureau of Land
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 207.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 207.
-
-
-Overfull \hbox (2.51245pt too wide) in paragraph at lines 212--212
-\T1/phv/m/n/10.95 Conservation
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 216.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 216.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 218.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 218.
-
-
-
-<QR code requested for "324989230004" in version 2-H.>
-
-<Copying the QR code for "324989230004" in version 2-H as previously calculated
+<Copying the QR code for "324989230003" in version 2-H as previously calculated
 .>
-[4]
+[3]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 203.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 203.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 211.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 211.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 221.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 221.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 223.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 223.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 228.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 228.
+
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\unhcopy' on input line 235.
@@ -1381,20 +1337,43 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 247.
+(hyperref)                removing `\unhcopy' on input line 237.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 247.
+(hyperref)                removing `\strutbox' on input line 237.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 265.
+(hyperref)                removing `\unhcopy' on input line 245.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 265.
+(hyperref)                removing `\strutbox' on input line 245.
 
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 254.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 254.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 256.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 256.
+
+
+
+<QR code requested for "324989230004" in version 2-H.>
+
+<Copying the QR code for "324989230004" in version 2-H as previously calculated
+.>
+[4]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\unhcopy' on input line 277.
@@ -1405,52 +1384,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 291.
+(hyperref)                removing `\unhcopy' on input line 290.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 291.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 296.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 296.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 298.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 298.
-
-
-Underfull \hbox (badness 7963) in paragraph at lines 299--299
-\T1/phv/m/n/10.95 Classroom-style pre-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 299--299
-\T1/phv/m/n/10.95 sen-ta-tions (speaker
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 301--301
-\T1/phv/m/n/10.95 Demonstrations (on-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 301--301
-\T1/phv/m/n/10.95 site or hands-on
- []
-
-
-Underfull \hbox (badness 5050) in paragraph at lines 301--301
-\T1/phv/m/n/10.95 op-por-tu-ni-ties to wit-
- []
+(hyperref)                removing `\strutbox' on input line 290.
 
 
 
@@ -1461,110 +1399,60 @@ Underfull \hbox (badness 5050) in paragraph at lines 301--301
 [5]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 305.
+(hyperref)                removing `\unhcopy' on input line 315.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 305.
+(hyperref)                removing `\strutbox' on input line 315.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--306
-\T1/phv/m/n/10.95 Forage
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 328.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 328.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 342.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 342.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 347.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 347.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 353.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 353.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--354
+\T1/phv/m/n/10.95 Classroom-style pre-sen-ta-tions (speaker faces
  []
 
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 360.
+LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
+(Font)              scaled to size 10.40245pt on input line 360.
 
-Underfull \hbox (badness 6944) in paragraph at lines 310--310
-\T1/phv/m/n/10.95 Safely con-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 311--311
-\T1/phv/m/n/10.95 Preventing un-in-tended
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 360.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 318.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 318.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 320.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 320.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 325.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 325.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 331.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 331.
-
-
-Underfull \hbox (badness 2512) in paragraph at lines 336--336
-[]|\T1/phv/m/n/10.95 Percent from other (please de-
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 339.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 339.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 341.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 341.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 343.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 343.
-
-
-Underfull \hbox (badness 7759) in paragraph at lines 344--344
-\T1/phv/m/n/10.95 Some High
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 346--346
-\T1/phv/m/n/10.95 Bachelor's
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 348--348
-\T1/phv/m/n/10.95 Ph.D or
- []
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 352.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 352.
+(hyperref)                removing `\strutbox' on input line 360.
 
 
 
@@ -1575,93 +1463,124 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 [6]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 354.
+(hyperref)                removing `\unhcopy' on input line 381.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 354.
+(hyperref)                removing `\strutbox' on input line 381.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 360.
+(hyperref)                removing `\unhcopy' on input line 383.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 360.
+(hyperref)                removing `\strutbox' on input line 383.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 362.
+(hyperref)                removing `\unhcopy' on input line 388.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 362.
+(hyperref)                removing `\strutbox' on input line 388.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 370.
+(hyperref)                removing `\unhcopy' on input line 394.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 370.
+(hyperref)                removing `\strutbox' on input line 394.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\unhcopy' on input line 372.
+(hyperref)                removing `\unhcopy' on input line 402.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\strutbox' on input line 372.
+(hyperref)                removing `\strutbox' on input line 402.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 373--373
-\T1/phv/m/n/10.95 Less than
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 404.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 374--374
-\T1/phv/m/n/10.95 25,001 to
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 404.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 375--375
-\T1/phv/m/n/10.95 50,001 to
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 406.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--376
-\T1/phv/m/n/10.95 75,001 to
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 406.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 377--377
-\T1/phv/m/n/10.95 100,001 to
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 415.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 378--378
-\T1/phv/m/n/10.95 Greater than
- []
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 415.
+
+
+
+<QR code requested for "324989230007" in version 2-H.>
+
+<Copying the QR code for "324989230007" in version 2-H as previously calculated
+.>
+[7]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 417.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 417.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 423.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 423.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 425.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 425.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 433.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 433.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\unhcopy' on input line 435.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\strutbox' on input line 435.
 
 
 AED: lastpage setting LastPage
 
-Package sdapsbase Warning: You have an odd number of pages, this does not work
-(sdapsbase)                in duplex mode!
 
+<QR code requested for "324989230008" in version 2-H.>
 
-
-<QR code requested for "324989230007" in version 2-H.>
-
-<Copying the QR code for "324989230007" in version 2-H as previously calculated
+<Copying the QR code for "324989230008" in version 2-H as previously calculated
 .>
-
-
-<QR code requested for "324989230007" in version 2-H.>
-
-<Copying the QR code for "324989230007" in version 2-H as previously calculated
-.>
-[7] (SurveyInstrument.aux
+[8] (SurveyInstrument.aux
 <Reading QR code for "324989230001" at level 2-H from aux file.>
 <Reading QR code for "324989230002" at level 2-H from aux file.>
 <Reading QR code for "324989230003" at level 2-H from aux file.>
@@ -1669,28 +1588,27 @@ Package sdapsbase Warning: You have an odd number of pages, this does not work
 <Reading QR code for "324989230005" at level 2-H from aux file.>
 <Reading QR code for "324989230006" at level 2-H from aux file.>
 <Reading QR code for "324989230007" at level 2-H from aux file.>
+<Reading QR code for "324989230008" at level 2-H from aux file.>
 )
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `SurveyInstrument.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28939 strings out of 478870
- 570452 string characters out of 2858661
- 1218752 words of memory out of 3000000
- 46308 multiletter control sequences out of 15000+600000
- 428932 words of font info for 68 fonts, out of 8000000 for 9000
+ 28950 strings out of 478870
+ 570658 string characters out of 2858661
+ 1188289 words of memory out of 3000000
+ 46316 multiletter control sequences out of 15000+600000
+ 431788 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 132i,24n,136p,10666b,1748s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 132i,24n,136p,10666b,1787s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
 /fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1
-/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvr
-8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on SurveyInstrument.pdf (7 pages, 115049 bytes).
+/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvb
+o8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on SurveyInstrument.pdf (8 pages, 135619 bytes).
 PDF statistics:
- 278 PDF objects out of 1000 (max. 8388607)
- 59 named destinations out of 1000 (max. 500000)
+ 287 PDF objects out of 1000 (max. 8388607)
+ 60 named destinations out of 1000 (max. 500000)
  421 words of extra memory for PDF output out of 10000 (max. 10000000)
 
