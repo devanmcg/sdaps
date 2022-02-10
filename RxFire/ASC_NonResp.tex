@@ -1,0 +1,98 @@
+\documentclass[
+  english,
+  checkmode = fill,
+  ]{sdapsclassic}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+% \usepackage{sdapspdf} % This allows "clickable" electronic .pdf forms
+\ExplSyntaxOn
+\sdaps_context_append:nn{*}{pdf_form=true}
+\ExplSyntaxOff
+
+%%%
+% McG added commands 
+\raggedright 
+
+\usepackage[scaled]{helvet}
+\renewcommand\familydefault{\sfdefault} 
+
+%%%
+
+\author{Autumn Clark}
+\title{Perceptions of Prescribed Fire Non-Response}
+
+\begin{document}
+ 
+  \begin{questionnaire}
+%  \begin{Form}
+
+    \begin{info}
+\begin{itemize}
+     \item For this survey, \textbf{prescribed fire} and \textbf{burning} refer to \emph{the intentional application of fire to an area of land for management purposes}.
+      \item Most questions will ask if you agree or disagree with one or more statements. 
+	     Some questions will simply ask you to respond Yes or No. 
+	    For all questions, mark your answer with an $\times$ symbol in the appropriate space. 
+      \item If you do not know the answer to a question, select {\framebox{DK}} for ``Don't Know"
+      \item If you feel a question does not apply to you enough to provide an answer, select \framebox{NA} for ``Not Applicable''
+\end{itemize}
+    \end{info}
+    
+    \section{SOME SECTION TITLE}
+    
+        \begin{choicequestion}[cols=1]{Which of the following are reasons for which you did not participate in the study?}
+      \choiceitem{I did not understand the purpose of the study or see any value in it}
+      \choiceitem{I did not understand some of the questions or statements}
+      \choiceitem{I did not feel any need to participate in the study}
+      \choiceitem{I did not have the time to complete the questionnaire}
+      \choiceitem{I did not believe the study was confidential}
+      \choiceitem{I felt I had insufficient knowledge of prescribed fire to provide informed responses}
+      \choiceitem{Other}
+    \end{choicequestion}
+    
+    \textbox*{5mm}{If 'other' please explain:}
+    
+        \begin{choicegroup}[rowsep=0.25em]{Please identify whether you believe the following uses of prescribed fire are appropriate or not, and mark whether you have or have not yourself used fire in that manner.}
+      
+      \groupaddchoice{Appropriate}
+      \groupaddchoice{NOT appropriate}
+      \groupaddchoice{I HAVE done}
+      \groupaddchoice{I have NOT done}
+      
+      \choiceline{\hspace{-5em} Burning to clear ditches, sloughs, or wetlands}
+      \choiceline{Burning to manage crop field residue}
+      \choiceline{Burning to reduce woody vegetation in a rangeland pasture}
+      \choiceline{Burning to improve livestock forage in a rangeland pasture}
+      \choiceline{Burning to enhance wildlife habitat}
+    \end{choicegroup}
+
+    \textbox*{15mm}{Feel free to describe any other uses of fire, whether you think they are appropriate, and if you have used them:}
+
+    \begin{markgroup}[rowsep=0.33em]{Rate the following based on the extent to which you agree or disagree with the statements provided: \vspace{1em}}
+    
+      \markline{\hspace{-2em}My friends and family would support me burning my land.}{\emph{Disagree}}{\emph{Agree}~~} {\framebox{DK}}~{\framebox{NA}}
+      \markline{My neighbors would support me burning on my land.}{\emph{Disagree}}{\emph{Agree}~~} {\framebox{DK}}~{\framebox{NA}}
+      \markline{I would support my neighbors' burning on their land.}{\emph{Disagree}}{\emph{Agree}~~} {\framebox{DK}}~{\framebox{NA}}
+      \markline{People in my community burn to manage their land.}{\emph{Disagree}}{\emph{Agree}~~} {\framebox{DK}}~{\framebox{NA}}
+      \markline{Local officials support prescribed fire in my community.}{\emph{Disagree}}{\emph{Agree}~~} {\framebox{DK}}~{\framebox{NA}}
+      \markline{In general, people in my community support prescribed fire use.}{\emph{Disagree}}{\emph{Agree}~~} {\framebox{DK}}~{\framebox{NA}}
+    \end{markgroup}
+    
+    \begin{choicequestion}[cols=5]{What is your proximity to public grazing lands?}
+      \choiceitem{0 to 15 miles}
+      \choiceitem{15 to 30 miles}
+      \choiceitem{30 to 45 miles}
+      \choiceitem{45 to 60 miles}
+      \choiceitem{60 + miles}
+    \end{choicequestion}
+    
+         \begin{markgroup}[rowsep=0.33em]{Rate the following based on the extent to which you agree or disagree with the statements provided.}
+      \markline{I think that public grazing land administrators do a good job managing the land.}{\emph{Disagree}}{\emph{Agree}~~} {\framebox{DK}}~{\framebox{NA}}
+      \markline{I think that public grazing land administrators should manage the land according to the best available science.}{\emph{Disagree}}{\emph{Agree}~~} {\framebox{DK}}~{\framebox{NA}}
+      \markline{I think that public grazing land administrators should manage to meet user needs or preferences.}{\emph{Disagree}}{\emph{Agree}~~} {\framebox{DK}}~{\framebox{NA}}
+      \markline{I believe that there is an appropriate amount of prescribed fire being used on public grazing lands.}{\emph{Disagree}}{\emph{Agree}~~} {\framebox{DK}}~{\framebox{NA}}
+      \markline{I believe that there should be more prescribed fire being used on public grazing lands.}{\emph{Disagree}}{\emph{Agree}~~} {\framebox{DK}}~{\framebox{NA}}
+    \end{markgroup} 
+
+%  \end{Form}
+  \end{questionnaire}
+\end{document}
